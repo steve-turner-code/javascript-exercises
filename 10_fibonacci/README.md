@@ -8,3 +8,9 @@ Create a function that returns a specific member of the Fibonacci sequence:
 fibonacci(4) // returns the 4th member of the series: 3  (1, 1, 2, 3)
 fibonacci(6) // returns 8
 ```
+Take the current number (2)
+add the previous (1)
+
+Current number now equals 3
+
+Update previous to be the old current
